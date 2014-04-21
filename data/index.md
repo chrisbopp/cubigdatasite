@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-We have expertise in conducting research on the following forms of Big Data:
+<p>We have expertise in conducting research on the following forms of Big Data:</p>
 <ul>
     <li>Large volume of Twitter messages during crises and disasters.</li>
     <li>Large networks of online game players.</li>
