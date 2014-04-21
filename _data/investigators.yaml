@@ -1,0 +1,53 @@
+- name: Ken Anderson
+  dept: CS
+
+- name: John Black
+  dept: CS
+
+- name: Elizabeth Bradley
+  dept: CS
+  
+- name: Evan Chang
+  dept: CS
+
+- name: Aaron Clauset
+  dept: CS
+
+- name: Nikolaus Correll
+  dept: CS
+  
+- name: Dirk Grunwald
+  dept: CS
+
+- name: Rick Han
+  dept: CS
+
+- name: Shannon Hughes
+  dept: ECEE
+  
+- name: Eric Keller
+  dept: ECEE
+
+- name: Roger King
+  dept: CS
+
+- name: Christine Lv
+  dept: CS
+  
+- name: Per-Gunnar Martinsson
+  dept: Applied Math
+
+- name: Jim Martin
+  dept: CS
+
+- name: Leysia Palen
+  dept: CS
+
+- name: Jeremy Siek
+  dept: ECEE
+
+- name: Tal Yarkoni
+  dept: ICS
+
+- name: Tom Yeh
+  dept: CS

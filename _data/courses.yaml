@@ -1,0 +1,19 @@
+- number: 3287
+  dept: CSCI
+  title: Database and Information Systems
+
+- number: 4202
+  dept: CSCI
+  title: Data Mining
+
+- number: 4317
+  dept: CSCI
+  title: "Genome Databases: Mining and Management"
+
+- number: 4576
+  dept: CSCI
+  title: High-Performance Scientific Computing
+
+- number: 4830
+  dept: CSCI
+  title: Datacenter Scale Computing
